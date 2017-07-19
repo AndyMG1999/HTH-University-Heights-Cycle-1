@@ -1,0 +1,35 @@
+h1:hover {
+      color:gold;
+    }
+  
+      input[type="submit"] {
+        background-color: Black;
+        color: Khaki;
+        font-family: Georgia;
+        padding: 5px;
+        font-size: 16px;
+        border-color: Gold;
+      }
+        input[type="text"] {
+            background-color:black;
+            color: Yellow;
+            font-size:14px;
+            border-color:gold;
+            font-family: Courier;
+            padding: 12px
+        }
+      h1 {
+          color: white;
+          font-family: Helvetica;
+          font-size: 40px;
+          text-align: center;
+      }
+    h3 {
+         color: khaki;
+         font-family: Courier;
+         text-align: center;
+    }
+    body {
+         background: url("http://cdn.wallpapersafari.com/17/24/P5UZzL.jpeg"); 
+         background-position: center;
+    }
